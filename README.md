@@ -4,4 +4,3 @@
 可以多加修改;
 修改的代码来源于https://testerhome.com/topics/2512；
 snake转载请注明原作者。
-稍后更新代码。
